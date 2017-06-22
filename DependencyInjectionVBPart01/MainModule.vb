@@ -3,7 +3,8 @@
     Sub Main()
 
         Dim injector As New Mother
-        Dim clientObject As New Child(injector.GetDrinkService())
+        Dim serviceObject = injector.GetDrinkService()
+        Dim clientObject As New Child(serviceObject)
 
         clientObject.Drink()
 

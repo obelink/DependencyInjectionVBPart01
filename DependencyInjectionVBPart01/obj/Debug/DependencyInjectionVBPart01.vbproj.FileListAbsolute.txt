@@ -1,0 +1,9 @@
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\bin\Debug\DependencyInjectionVBPart01.exe.config
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\bin\Debug\DependencyInjectionVBPart01.exe
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\bin\Debug\DependencyInjectionVBPart01.pdb
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\bin\Debug\DependencyInjectionVBPart01.xml
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\obj\Debug\DependencyInjectionVBPart01.Resources.resources
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\obj\Debug\DependencyInjectionVBPart01.vbproj.GenerateResource.Cache
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\obj\Debug\DependencyInjectionVBPart01.exe
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\obj\Debug\DependencyInjectionVBPart01.xml
+D:\Projects\GitHub\DependencyInjectionVBPart01\DependencyInjectionVBPart01\obj\Debug\DependencyInjectionVBPart01.pdb
